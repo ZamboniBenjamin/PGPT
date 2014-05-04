@@ -1,0 +1,15 @@
+#tab-one {
+    position: absolute;
+    width: 75px;
+    height: 20px;
+    top: 10px;
+    left: 25px;
+    cursor: pointer;
+}
+#moncercle{
+  background:#bfd70e;
+  border-radius:50%;
+  width:160px;
+  height:160px;
+  border:2px solid #679403;
+}
