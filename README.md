@@ -16,7 +16,7 @@ Le programme Pro-Gaming Physical Training s'adresse aux joueurs professionnels e
 
 Langage utilisé : Html5 - Css3 - PHP - Sql(PDO) - Javascript
 
-Ressources nécessaires : Apache - Mysql
+Ressources nécessaires : Apache - Mysql - Bootstrap
 
 <b>Description du nouveau programme</b>
 
